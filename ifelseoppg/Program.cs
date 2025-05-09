@@ -31,7 +31,7 @@ else
 {
     isEqual2 = true;
     int gangesum = oppgnumber * oppgnumber2;
-    Console.WriteLine($"Nummerene er like, ganing av tallene gir = {gangesum}");
+    Console.WriteLine($"Nummerene er like, ganging av tallene gir = {gangesum}");
 }
 
 //oppgave 3
