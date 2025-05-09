@@ -37,3 +37,17 @@ else
 //oppgave 3
 
 
+int verdi1 = 20;
+int verdi2 = 11;
+bool erOver = false;
+
+if (verdi1 + verdi2 > 30)
+{
+    erOver = true;
+    Console.WriteLine($"Summen av {verdi1} og {verdi2} er over enn 30");
+}
+else
+{
+    erOver = false;
+    Console.WriteLine($"Summen av {verdi1} og {verdi2} er under enn 30");
+}
